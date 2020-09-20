@@ -79,6 +79,7 @@ public class Game implements Serializable {
 		return records;
 	}
 
+	
 
 	@Override
 	public int hashCode() {
